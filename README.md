@@ -34,15 +34,14 @@ CRM_Work/
 
 ---
 
-## Data
+## Excel Workbook Data- Separate from Dashboard
 
-The dataset (`CRM Excel Sheet.xlsx`) contains CRM sales pipeline records with fields such as:
+The dataset (`CRM Excel Sheet.xlsx`) contains CRM sales pipeline records with fields apart from what is used in the dashboard such as:
 - Lead information and status
-- Product category (Custom Solution, SAAS, Services)
 - Deal values and expected values
 - Sales agent assignments
 - Pipeline stage progression
-- Churn indicators
+
 
 ---
 
