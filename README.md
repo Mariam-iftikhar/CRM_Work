@@ -27,7 +27,7 @@ This project provides an interactive **CRM Dashboard** for **Pipeline Sales Anal
 
 ```
 CRM_Work/
-├── CRM Excel Sheet.xlsx   # Source dataset containing CRM sales data
+├── CRM Excel Sheet.xlsx   # Dataset containing CRM sales data
 ├── CRM.jpg                # Dashboard visualization screenshot
 └── README.md              # Project documentation
 ```
